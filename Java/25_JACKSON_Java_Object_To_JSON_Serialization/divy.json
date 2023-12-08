@@ -1,0 +1,11 @@
+{
+  "name" : "Divya Jain",
+  "position" : [ "Developer", "Designer" ],
+  "skills" : [ "Java", "Python" ],
+  "salary" : {
+    "2012" : 1500.0,
+    "2011" : 1300.0,
+    "2010" : 1200.0
+  },
+  "id" : 101
+}

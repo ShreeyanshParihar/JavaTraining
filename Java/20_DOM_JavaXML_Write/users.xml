@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+  <user id="1">
+    <firstname>Divya</firstname>
+    <lastname>Jain</lastname>
+    <occupation>Developer</occupation>
+  </user>
+  <user id="2">
+    <firstname>Vivek</firstname>
+    <lastname>Gohil</lastname>
+    <occupation>Teacher</occupation>
+  </user>
+</users>

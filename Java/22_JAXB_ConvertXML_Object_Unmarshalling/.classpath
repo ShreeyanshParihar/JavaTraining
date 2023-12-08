@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divy/Downloads/jaxb-ri-3.0.0/jaxb-ri/mod/jaxb-xjc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
